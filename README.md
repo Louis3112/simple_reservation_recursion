@@ -4,7 +4,7 @@
 One of my project for Data Structure 2nd Semester. The project is a simple reservation app using recursion function
 The project is developed using Functional programming, C++ language, runs on CLI, and doesn't requires any library to use (except iostream)
 
-There is a report written in Bahasa Indonesia that you can read from.
+There is a report written in *Bahasa Indonesia* that you can read from.
 
 ## :arrow_forward: **Installation and Usage** 
 To install this project, please proceed these steps:
